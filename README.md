@@ -29,7 +29,7 @@
 
 <!-- Functional / Backend -->
 <img src="https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white"/>
-<img src="https://img.shields.io/badge/Phoenix-FD4F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Phoenix-FD4F00?style=for-the-badge&logo=phoenix-framework&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
